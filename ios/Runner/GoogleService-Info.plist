@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>402775937682-4fatsgdeq3j7liin8i28u7jc6n0v277v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.402775937682-4fatsgdeq3j7liin8i28u7jc6n0v277v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAOi5Md5CnUv2Gwrcgo9KK2bDPHfuRvo1g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>402775937682</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.vacationapp</string>
+	<key>PROJECT_ID</key>
+	<string>vacation-app-f1367</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vacation-app-f1367.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:402775937682:ios:5bc9d234e30f1ab2c58c4b</string>
+</dict>
+</plist>
